@@ -1,3 +1,6 @@
 [submodule "repo2"]
 	path = repo2
 	url = https://github.com/araducu/repo2.git
+[submodule "activity-card-repo"]
+	path = activity-card-repo
+	url = https://github.com/araducu/activity-card-repo.git

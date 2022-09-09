@@ -1,0 +1,6 @@
+[submodule "activity-card-repo"]
+	path = repo1
+	url = https://github.com/araducu/activity-card-repo
+[submodule "repo2"]
+	path = repo1
+	url = https://github.com/araducu/repo2
